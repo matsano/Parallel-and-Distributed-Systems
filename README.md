@@ -20,4 +20,4 @@ This project was implemented in Python.
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
 
-I would like to thank our professors Mr. Xavier Juvigny for the knowledge taught in Parallel and Distributed Systems Course at [ENSTA Paris](https://www.ensta-paris.fr/) which were essential for the realization of this project.
+We would like to thank our professors Mr. Xavier Juvigny for the knowledge taught in Parallel and Distributed Systems Course at [ENSTA Paris](https://www.ensta-paris.fr/) which were essential for the realization of this project.

@@ -1,5 +1,5 @@
 # Parallel-and-Distributed-Systems
-Parallel and Distributed Systems Course (OS202)
+Parallel and Distributed Systems Course
 
 ## 📋 Description
 TDs and project (TP) implemented during the course.
